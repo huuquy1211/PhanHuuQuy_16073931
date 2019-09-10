@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
                 if(check_box.isChecked()== true)
                 {
                     Toast.makeText(MainActivity.this, "Chào mừng bạn đăng nhập hệ thống, thông tin của bạn đã được lưu", Toast.LENGTH_SHORT).show();
-
+                    //jjj
                 }
                 else
                     Toast.makeText(MainActivity.this, "Chào mừng bạn đăng nhập hệ thống, thông tin của bạn không được lưu", Toast.LENGTH_SHORT).show();
