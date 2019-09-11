@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70a18637-d696-40b6-b06c-e3e923670d5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/phq_cau1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/phq_cau1/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="70a18637-d696-40b6-b06c-e3e923670d5e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/phq_cau1/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1577#1755#0" expanded="true" />
@@ -200,7 +198,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32978722" />
@@ -241,7 +238,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/phq_cau1/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1577#1755#0" expanded="true" />
